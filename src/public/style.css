@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(238, 201, 201);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#form {
+    background-color: rgb(235, 188, 188);
+    border-radius: 1em;
+    display: flex;
+    flex-direction: column;
+    padding: 3em 8em;
+}
+#form h3 {
+    color: rgb(44, 36, 36)
+}
+#form button{
+    margin: 0.5em;
+    
+}
+#response {
+    color: rgb(105, 81, 81);
+}
